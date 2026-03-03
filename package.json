@@ -1,0 +1,11 @@
+{
+  "name": "mytts-angela",
+  "version": "1.0.0",
+  "description": "Project Queen AI by AngelaImut",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "fastify": "^4.24.0"
+  }
+}
